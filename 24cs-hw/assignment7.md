@@ -55,7 +55,7 @@ if patients_young:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-<img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-11-11 202349.png">
+![Screenshot 2024-11-11 202349](https://github.com/user-attachments/assets/904b4de5-e663-40d2-b7bc-85dc612d8885)
 
 
 
@@ -97,7 +97,7 @@ for i in range(n):
 
 代码运行截图 ==（至少包含有"Accepted"）==
 
-<img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-11-11 202450.png">
+![Screenshot 2024-11-11 202450](https://github.com/user-attachments/assets/e8715841-3e2c-44d3-9f3f-042e9f0b4dc3)
 
 
 
@@ -249,7 +249,7 @@ print(numer)
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-<img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-11-11 202525.png">
+![Screenshot 2024-11-11 202525](https://github.com/user-attachments/assets/260735d5-a05f-4ac9-8fe4-2827bfe92847)
 
 
 
@@ -288,7 +288,7 @@ print(event_engage)
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-<img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-11-11 202557.png">
+![Screenshot 2024-11-11 202557](https://github.com/user-attachments/assets/e5d14835-773c-4715-969a-6305439286df)
 
 
 
