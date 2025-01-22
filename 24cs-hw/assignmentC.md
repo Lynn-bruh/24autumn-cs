@@ -55,7 +55,7 @@ while True:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-<img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-12-17 204718.png">
+![Screenshot 2024-12-17 204718](https://github.com/user-attachments/assets/4c5ddb5b-75b5-4654-aa18-0ce11fe8ac52)
 
 
 
@@ -110,7 +110,7 @@ print(onion(onions))
 
 代码运行截图 ==（至少包含有"Accepted"）==
 
-<img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-12-17 211245.png">
+![Screenshot 2024-12-17 211245](https://github.com/user-attachments/assets/9c3ecc5f-b097-4a6e-aa21-b0939be8188d)
 
 
 
@@ -148,7 +148,8 @@ print(max_potions(potions))
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-<img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-12-17 220814.png">
+![Screenshot 2024-12-17 220814](https://github.com/user-attachments/assets/4d47cf37-8a59-451a-b562-8ecd1324e448)
+
 
 
 ### 22067: 快速堆猪
@@ -223,7 +224,7 @@ for _ in range(p):
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-<img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-12-17 233923.png">
+![Screenshot 2024-12-17 233923](https://github.com/user-attachments/assets/fd011366-20f5-4d81-a22e-80fbb4462e6a)
 
 
 
