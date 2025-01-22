@@ -69,7 +69,7 @@ https://csdiy.wiki/#cs61a
 
 https://github.com/Lynn-bruh/24autumn-cs
 
-<img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2025-01-23 004137.png">
+![Screenshot 2025-01-23 004137](https://github.com/user-attachments/assets/3c8bed22-6887-4aa0-ace9-5c5e90acb30d)
 
 
 ## 3. 课程总结
