@@ -45,7 +45,7 @@ print(N[len(N)-1])
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-<img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-12-02 231709.png">
+![Screenshot 2024-12-02 231709](https://github.com/user-attachments/assets/bb71ea31-9db0-452c-b481-aca583c5e482)
 
 
 
@@ -73,7 +73,7 @@ print(stairs[N-1])
 
 代码运行截图 ==（至少包含有"Accepted"）==
 
-<img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-12-02 231837.png">
+![Screenshot 2024-12-02 231837](https://github.com/user-attachments/assets/c418d9bd-7777-40d4-bd45-1e7bd15acc6f)
 
 
 
@@ -110,7 +110,7 @@ for _ in range(t):
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-<img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-12-03 231742.png">
+![Screenshot 2024-12-03 231742](https://github.com/user-attachments/assets/82c9e4d9-580b-414b-988e-44c12c41cdfd)
 
 
 
@@ -161,9 +161,7 @@ print(find_longest(s))
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-<img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-12-03 220031.png">
-
-
+![Screenshot 2024-12-03 220031](https://github.com/user-attachments/assets/6a68e118-762b-4d08-b502-3989fc04acbc)
 
 
 
