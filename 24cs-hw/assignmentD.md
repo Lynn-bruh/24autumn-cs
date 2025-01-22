@@ -75,7 +75,7 @@ for _ in range(n):
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-<img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-12-23 175051.png">
+![Screenshot 2024-12-23 175051](https://github.com/user-attachments/assets/9e037e06-0774-4ac5-9073-070419c6c086)
 
 
 
@@ -123,7 +123,7 @@ print(longest_path)
 
 代码运行截图 ==（至少包含有"Accepted"）==
 
-<img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-12-23 233740.png">
+![Screenshot 2024-12-23 233740](https://github.com/user-attachments/assets/f0a8958b-5d64-4f9e-8472-12164a1adc2a)
 
 
 
@@ -181,7 +181,7 @@ print(crab_find((start[0], start[1], start[2], start[3])))
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-<img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-12-24 224907.png">
+![Screenshot 2024-12-24 224907](https://github.com/user-attachments/assets/94cfe74f-29d8-401c-b897-86b430740d01)
 
 
 
@@ -218,7 +218,7 @@ print(dp[-1])
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-<img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-12-24 002248.png">
+![Screenshot 2024-12-24 002248](https://github.com/user-attachments/assets/227ea24d-aa69-4228-b041-2e318e39e329)
 
 
 
