@@ -50,7 +50,8 @@ print (earn)
 
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
-<center><img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-10-19 132427.png"></center>
+
+![Screenshot 2024-10-19 132427](https://github.com/user-attachments/assets/99da7c62-ed09-41eb-a593-5f4e63f74d09)
 
 
 
@@ -82,7 +83,7 @@ else:
 
 代码运行截图 ==（至少包含有"Accepted"）==
 
-<center><img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-10-19 132949.png"></center>
+![Screenshot 2024-10-19 132949](https://github.com/user-attachments/assets/ffbdc578-bc7c-4123-a5e5-cd9bb0c5bcd5)
 
 
 
@@ -117,7 +118,7 @@ for t in range(int(input())):
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-<center><img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-10-19 133817.png"></center>
+![Screenshot 2024-10-19 133817](https://github.com/user-attachments/assets/0243cf9f-77b8-4da0-b25d-eeaa3731242a)
 
 
 
@@ -154,7 +155,7 @@ print(taxi)
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-<center><img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-10-19 165949.png"></center>
+![Screenshot 2024-10-19 165949](https://github.com/user-attachments/assets/6e77b9bb-990a-4dbc-aaf6-16f8f61ad08d)
 
 
 
