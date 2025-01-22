@@ -55,7 +55,7 @@ print(length)
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-<img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-11-18 235945.png">
+![Screenshot 2024-11-18 235945](https://github.com/user-attachments/assets/c04a8fd9-9e6c-45b5-a391-e62328206f84)
 
 
 
@@ -113,7 +113,7 @@ if spiral_matrix:
 
 代码运行截图 ==（至少包含有"Accepted"）==
 
-<img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-11-19 220136.png">
+![Screenshot 2024-11-19 220136](https://github.com/user-attachments/assets/f551ab43-d34b-4479-9e6d-52db25ab540e)
 
 
 
@@ -179,7 +179,7 @@ print(longest)
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-<img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-11-19 223105.png">
+![Screenshot 2024-11-19 223105](https://github.com/user-attachments/assets/d8b02c6c-3547-4141-9c19-e34a5972cf0f)
 
 
 
@@ -214,7 +214,7 @@ print(dp[Max-1]) # largest index = length-1
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-<img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-11-19 230439.png">
+![Screenshot 2024-11-19 230439](https://github.com/user-attachments/assets/788ddf8d-7639-4689-a782-b6e441b7e59e)
 
 
 
