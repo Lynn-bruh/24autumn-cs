@@ -57,7 +57,7 @@ print (passout)
 
 代码运行截图 ==（至少包含有"Accepted"）==
 
-<div align = center><img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-10-11 235422.png"></div>
+![Screenshot 2024-10-11 235422](https://github.com/user-attachments/assets/aa1be2e9-cece-4364-bbc3-612fa04495b8)
 
 
 
@@ -84,7 +84,7 @@ print (a)
 
 代码运行截图 ==（至少包含有"Accepted"）==
 
-<center><img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-10-11 235515.png"></center>
+![Screenshot 2024-10-11 235515](https://github.com/user-attachments/assets/6c734d4b-3337-457d-b314-bbf32340ad7c)
 
 
 
@@ -123,7 +123,7 @@ for _ in range(n):
 
 代码运行截图 ==（AC代码截图，至少包含有"Accepted"）==
 
-<center><img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-10-11 235544.png"></center>
+![Screenshot 2024-10-11 235544](https://github.com/user-attachments/assets/e9776338-40e7-446a-adc4-e7e7ccd8199c)
 
 
 
@@ -161,7 +161,7 @@ while True:
 
 代码运行截图 ==（AC代码截图，至少包含有"Accepted"）==
 
-<center><img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-10-11 235620.png", width = 90%></center>
+![Screenshot 2024-10-11 235620](https://github.com/user-attachments/assets/f42b4fba-9177-4fba-ac03-6c63fc1627ec)
 
 
 
@@ -265,7 +265,7 @@ else:
 
 代码运行截图 ==（AC代码截图，至少包含有"Accepted"）==
 
-<center><img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-10-11 235710.png", width = 90%></center>
+![Screenshot 2024-10-11 235710](https://github.com/user-attachments/assets/2f29a0cc-c8fc-4d20-91b5-149b3b3f83ef)
 
 
 
