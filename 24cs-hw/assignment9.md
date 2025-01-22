@@ -88,7 +88,7 @@ for _ in range(T):
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-<img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-11-26 003654.png">
+![Screenshot 2024-11-26 003654](https://github.com/user-attachments/assets/a18abab0-6923-4323-8de2-5c54eebe387e)
 
 
 
@@ -145,7 +145,7 @@ print(bfs(0, 0)) # since definitely starting from (0, 0)
 
 代码运行截图 ==（至少包含有"Accepted"）==
 
-<img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-11-26 232520.png">
+![Screenshot 2024-11-26 232520](https://github.com/user-attachments/assets/3a352714-97ba-47b0-b521-b34dba9f8f3c)
 
 
 
@@ -194,7 +194,7 @@ for _ in range(T):
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-<img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-11-26 204819.png">
+![Screenshot 2024-11-26 204819](https://github.com/user-attachments/assets/b2d2bd2d-9609-4223-9008-eb034b94a008)
 
 
 
@@ -249,7 +249,7 @@ for x, y in best_path:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-<img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-11-26 224326.png">
+![Screenshot 2024-11-26 224326](https://github.com/user-attachments/assets/caa5b1dd-863c-46e1-b37b-d8872b73738c)
 
 
 
