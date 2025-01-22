@@ -53,7 +53,7 @@ for i in range(len(saving_data)):
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-<img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-11-05 001039.png">
+![Screenshot 2024-11-05 001039](https://github.com/user-attachments/assets/c5a71d2a-e296-4f5a-bae3-cfdd0d823d18)
 
 
 
@@ -92,7 +92,7 @@ for perm in all_permutation:
 
 代码运行截图 ==（至少包含有"Accepted"）==
 
-<img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-11-05 011907.png">
+![Screenshot 2024-11-05 011907](https://github.com/user-attachments/assets/48df9746-3668-4d4e-80d2-7b68bb9051b0)
 
 
 
@@ -138,7 +138,7 @@ print(max(dp))
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-<img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-11-05 115226.png">
+![Screenshot 2024-11-05 115226](https://github.com/user-attachments/assets/b1aabd5b-6e9e-4aa0-9394-c11be50dc090)
 
 
 
@@ -173,7 +173,7 @@ print(bag[-1][-1])
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-<img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-11-05 165008.png">
+![Screenshot 2024-11-05 165008](https://github.com/user-attachments/assets/9ff77e44-9cb0-487d-a827-973dc87e6a6e)
 
 
 
