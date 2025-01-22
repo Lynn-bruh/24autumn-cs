@@ -60,7 +60,7 @@ while True:
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-<img src="C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-10-27 165717.png">
+![Screenshot 2024-10-27 165717](https://github.com/user-attachments/assets/4a4c86b2-01f4-48dd-a05c-ef5371eb9693)
 
 
 
@@ -105,7 +105,7 @@ print (mine - enemy)
 
 代码运行截图 ==（至少包含有"Accepted"）==
 
-<img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-10-27 173603.png">
+![Screenshot 2024-10-27 173603](https://github.com/user-attachments/assets/60042b94-16b0-4aed-b237-340763783563)
 
 
 
@@ -143,7 +143,7 @@ print(f"{waiting:.2f}")
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-<img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-10-27 180509.png">
+![Screenshot 2024-10-27 180509](https://github.com/user-attachments/assets/21bb90fb-c94c-427e-af2e-586752c5f83c)
 
 
 
@@ -259,8 +259,8 @@ print(max(stay, left, right))
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-<img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-10-27 235427.png">
-<img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-10-28 004435.png">
+![Screenshot 2024-10-27 235427](https://github.com/user-attachments/assets/4ad4bc68-3ed9-4c02-bcf6-c56b79995874)
+![Screenshot 2024-10-28 004435](https://github.com/user-attachments/assets/54dab0c5-06cf-46c7-8d38-5348f372acb9)
 
 
 
