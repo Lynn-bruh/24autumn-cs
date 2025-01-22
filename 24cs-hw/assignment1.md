@@ -47,7 +47,7 @@ else:
 
 代码运行截图 ==（至少包含有"Accepted"）==
 
-<div align = center> <img src=".\Users\Lynn\Pictures\Screenshots\Screenshot 2024-09-20 155443.png" width=75%> </div>
+![Screenshot 2024-09-20 155443](https://github.com/user-attachments/assets/432abb54-8c40-49e3-ac5a-80ee82cad605)
 
 
 
@@ -77,7 +77,7 @@ else:
 
 代码运行截图 ==（至少包含有"Accepted"）==
 
-<div align = center> <img src = ".\Pictures\Screenshots\Screenshot 2024-09-20 160426.png"> </div>
+![Screenshot 2024-09-20 160426](https://github.com/user-attachments/assets/0edd3a97-190b-44e5-b9c3-ffe12acac3d2)
 
 
 
@@ -103,7 +103,7 @@ print ((M*N)//2)
 
 代码运行截图 ==（AC代码截图，至少包含有"Accepted"）==
 
-<div align = center> <img src = ".\Pictures\Screenshots\Screenshot 2024-09-20 161636.png"></div>
+![Screenshot 2024-09-20 161636](https://github.com/user-attachments/assets/60ec3645-355c-4cf8-8d46-e592bee58d8d)
 
 
 
@@ -134,7 +134,7 @@ print (x*y)
 
 代码运行截图 ==（AC代码截图，至少包含有"Accepted"）==
 
-<div align = center> <img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-09-20 162516.png"> </div>
+![Screenshot 2024-09-20 162516](https://github.com/user-attachments/assets/1814ecc8-5eff-417c-b888-6077ade380c1)
 
 
 
@@ -172,7 +172,7 @@ else:
 
 代码运行截图 ==（AC代码截图，至少包含有"Accepted"）==
 
-<div align = center> <img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-09-20 163147.png"></div>
+![Screenshot 2024-09-20 163147](https://github.com/user-attachments/assets/1cca8d0e-c58f-4946-a636-6e3cffba69fb)
 
 
 
@@ -202,7 +202,7 @@ print(num)
 
 代码运行截图 ==（AC代码截图，至少包含有"Accepted"）==
 
-<div align = center> <img src = ".\Pictures\Screenshots\Screenshot 2024-09-20 164846.png"></div>
+![Screenshot 2024-09-20 164846](https://github.com/user-attachments/assets/cd396400-cbe1-4298-8e9a-a2e9bdf123ce)
 
 
 
