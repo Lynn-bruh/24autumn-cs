@@ -46,7 +46,7 @@ print(max_increase)
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-<img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-12-09 231019.png">
+![Screenshot 2024-12-09 231019](https://github.com/user-attachments/assets/56bc4fda-18ec-4566-a626-1f2f4eb5df7f)
 
 
 
@@ -82,7 +82,7 @@ print(f"{max_time:.3f}")
 
 代码运行截图 ==（至少包含有"Accepted"）==
 
-<img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-12-10 164437.png">
+![Screenshot 2024-12-10 164437](https://github.com/user-attachments/assets/2f59d339-3d45-484b-a7fa-2036a7032726)
 
 
 
@@ -119,7 +119,7 @@ print(list_to_buy(buying))
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-<img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-12-09 233324.png">
+![Screenshot 2024-12-09 233324](https://github.com/user-attachments/assets/c2099a38-3702-4128-9cea-e8b36e560c8c)
 
 
 
@@ -200,7 +200,7 @@ print(max_gold)
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-<img src = "C:\Users\Lynn\Pictures\Screenshots\Screenshot 2024-12-10 001228.png">
+![Screenshot 2024-12-10 001228](https://github.com/user-attachments/assets/440cb9a7-11d8-4b90-b4d4-6881419d786b)
 
 
 
